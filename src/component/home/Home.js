@@ -150,7 +150,7 @@ function Home({ colorName, theme }) {
               <div className="home-button">
                 <div data-aos="fade-up" data-aos-duration="3000">
                   <button className="hireme">
-                    <a href="mailto:vikyhari321@gmail.com">Hire Me</a>
+                    <a href="mailto:reachme.manojkumar1999@gmail.com">Hire Me</a>
                   </button>
                 </div>
                 <div
