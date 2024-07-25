@@ -7,12 +7,12 @@ export const ContactDatas = {
         },
         {
             id: 2,
-            name: "+91 9344556276",
+            name: "+91 8124383574",
             image: <i class="fa-solid fa-phone icon-color"></i>
         },
         {
             id: 3,
-            name: "vikyhari321@gmail.com",
+            name: "reachme.manojkumar1999@gmail.com",
             image: <i class="fa-solid fa-envelope icon-color"></i>
         }
     ],
