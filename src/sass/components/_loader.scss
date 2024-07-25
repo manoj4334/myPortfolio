@@ -24,7 +24,7 @@
     animation-iteration-count: infinite;
 }
 .loading-cont::before {
-    content: " ..😎.. ";
+    content: "..Welcome..";
     position: absolute;
     top: 50%;
     left: 50%;
@@ -32,7 +32,7 @@
     width: 90%;
     height: 90%;
     border-radius: 50%;
-    color:#EF0107;
+    color:skyblue;
     display: flex;
     justify-content: center;
     align-items: center;
